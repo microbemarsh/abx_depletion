@@ -1,14 +1,10 @@
----
-title: 'Effect of Antibiotic Gut Microbiome Depletion on TBI'
-disqus: hackmd
----
+# WORK IN PROGRESS
+## MOIVING OVER TO LAB GITHUB CURRENTLY
 
 Effect of Antibiotic Gut Microbiome Depletion on TBI
 ===
 
 ## Table of Contents
-
-[TOC]
 
 ## Introduction
 
